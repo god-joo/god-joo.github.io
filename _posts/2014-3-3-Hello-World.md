@@ -12,9 +12,9 @@ A big ass <https://www.naver.com>
 
 **bold**
 
-code `code()`
+code `System.out.println("Hello, World!");`
 
-```java
+```javascript
 System.out.println("Hello, World!");
 ```
 
